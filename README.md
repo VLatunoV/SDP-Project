@@ -1,2 +1,2 @@
 # SDP-Project
-Key-Value storage
+Key-Value storage with minimal data loss
